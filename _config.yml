@@ -2,7 +2,7 @@
 permalink:        /post/:title.html
 
 # Setup
-url:              https://zyong0904.github.io
+url:              http://zyong.xyz
 
 # Set to '' in case of hosting on `https://<your-github-name>.github.io`
 baseurl:          ''
@@ -11,7 +11,7 @@ title:            '青蛙鸽子'
 
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
 description:      >
-  关于[代码](https://zyong0904.github.io/code/)、[生活](https://zyong0904.github.io/life/)、[宇宙](https://zyong0904.github.io/read/)和[一切](/)。
+  关于[代码](http://zyong.xyz/code/)、[生活](http://zyong.xyz/life/)、[宇宙](http://zyong.xyz/read/)和[一切](/)。
 
 
 # Fallback image and color if not overwritten for tag or post
@@ -20,7 +20,7 @@ color:            '#dc322f'
 
 author:
   name:           '青蛙鸽子'
-  email:          zyong0904@outlook.com
+  email:          1468376989@qq.com
   github:         'zyong0904'
   linkedin:       ''
   facebook:       ''
